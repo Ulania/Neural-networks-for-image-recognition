@@ -56,18 +56,17 @@ The augmented images are then used to train the model with data augmentation, an
 
 In the code, sample images from the training dataset were displayed along with their labels.
 
-![Example screenshot](./screens/flowers.png)
+![flowers](https://github.com/Ulania/Neural-networks-for-image-recognition/assets/96245511/ae55b45b-3451-42ba-9ea3-6145dd22967d)
 
-![Example screenshot](./screens/chart1.png)
+![chart1](https://github.com/Ulania/Neural-networks-for-image-recognition/assets/96245511/1be806ba-1190-4732-a363-0d5a4df93d39)
 
 Plots for the number of epochs equal to 20.
 
-![Example screenshot](./screens/plots2.png)
+![plots2](https://github.com/Ulania/Neural-networks-for-image-recognition/assets/96245511/5858b34a-9023-4f6c-bd5d-8c5af3fbe80d)
 
 Plots after changing the activation function to tanh.
 
-![Example screenshot](./screens/plots3.png)
-
+![plots3](https://github.com/Ulania/Neural-networks-for-image-recognition/assets/96245511/84cc6d39-6afe-41fe-a5d6-6f6e848c57c2)
 ## Setup
 
 The project requirements/dependencies are as follows:
